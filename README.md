@@ -50,6 +50,11 @@ polgate eval --input /input/file/path/results.json --policy semgrep_fail_error -
 - semgrep_fail_all
 
 > For more policies, Please create a issue.
+
+## Sample workflows
+
+- [Workflow fail with policy gate](https://github.com/c0d3G33k/vulnado01/actions/runs/9469776634/job/26089218585)
+- [Workflow pass with policy gate](https://github.com/c0d3G33k/dvna/actions/runs/9469857662/job/26089475901)
   
 ## Policy JSON file template
 
