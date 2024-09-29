@@ -53,8 +53,8 @@ polgate eval --input /input/file/path/results.json --policy semgrep_fail_error -
 
 ## Sample workflows
 
-- [Workflow fail with policy gate](https://github.com/c0d3G33k/vulnado01/actions/runs/9469776634/job/26089218585)
-- [Workflow pass with policy gate](https://github.com/c0d3G33k/dvna/actions/runs/9469857662/job/26089475901)
+- [Workflow fail with policy gate](https://github.com/c0d3G33k/vulnado01/actions/runs/11091031337/job/30814165385)
+- [Workflow pass with policy gate](https://github.com/c0d3G33k/dvna/actions/runs/11091043513/job/30814197010)
   
 ## Policy JSON file template
 
